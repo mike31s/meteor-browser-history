@@ -2,3 +2,8 @@
 
 *.iml
 .idea/
+<<<<<<< HEAD
+=======
+
+settings.production.json
+>>>>>>> template/master
